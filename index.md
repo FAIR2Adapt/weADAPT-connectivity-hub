@@ -1,4 +1,3 @@
-# Case study Template
+# Enriching weADAPT and the Connectivity Hub Global
 
-This is a template for a FAIR2Adapt case study
-
+Connecting and visualising the CCA knowledge landscape through the Connectivity Hub and weADAPT.
