@@ -1,6 +1,5 @@
-# Case study Template
+# weADAPT and Connectivity Hub
 
-- Use this template for creating new case study repository.
-- Enable web pages from github action
-- Change the static/thumnail.png for your case study
-- And update the case study accordingly!
+[![RoHub Executable Research Object](https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue)](https://w3id.org/ro-id/2a889d82-5b8c-48c2-820b-e8da468d64bf)
+
+Connecting and visualising the CCA knowledge landscape through the Connectivity Hub and weADAPT.
